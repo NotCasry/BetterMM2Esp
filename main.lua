@@ -19,7 +19,7 @@ function create_box(player : Player)
                 Create.BillboardSize = UDim2.new(5,0,6,0)
 
                 Create2.MaxDistance = math.huge
-                Create2.StudsOffset = Vector3.new(0, 1.7, 0)
+                Create2.StudsOffset = Vector3.new(0, 1.8, 0)
                 Create2.BillboardSize = UDim2.new(5,0,1,0)
                 
                 local NewSurface = Create.CreateSurface()
